@@ -1,0 +1,17 @@
+E:\Desktop\Program\C#\Project1\mssgBox_fullName\mssgBox_fullName\bin\Debug\net6.0-windows\mssgBox_fullName.exe
+E:\Desktop\Program\C#\Project1\mssgBox_fullName\mssgBox_fullName\bin\Debug\net6.0-windows\mssgBox_fullName.deps.json
+E:\Desktop\Program\C#\Project1\mssgBox_fullName\mssgBox_fullName\bin\Debug\net6.0-windows\mssgBox_fullName.runtimeconfig.json
+E:\Desktop\Program\C#\Project1\mssgBox_fullName\mssgBox_fullName\bin\Debug\net6.0-windows\mssgBox_fullName.dll
+E:\Desktop\Program\C#\Project1\mssgBox_fullName\mssgBox_fullName\bin\Debug\net6.0-windows\mssgBox_fullName.pdb
+E:\Desktop\Program\C#\Project1\mssgBox_fullName\mssgBox_fullName\obj\Debug\net6.0-windows\mssgBox_fullName.csproj.AssemblyReference.cache
+E:\Desktop\Program\C#\Project1\mssgBox_fullName\mssgBox_fullName\obj\Debug\net6.0-windows\mssgBox_fullName.Form1.resources
+E:\Desktop\Program\C#\Project1\mssgBox_fullName\mssgBox_fullName\obj\Debug\net6.0-windows\mssgBox_fullName.csproj.GenerateResource.cache
+E:\Desktop\Program\C#\Project1\mssgBox_fullName\mssgBox_fullName\obj\Debug\net6.0-windows\mssgBox_fullName.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Program\C#\Project1\mssgBox_fullName\mssgBox_fullName\obj\Debug\net6.0-windows\mssgBox_fullName.AssemblyInfoInputs.cache
+E:\Desktop\Program\C#\Project1\mssgBox_fullName\mssgBox_fullName\obj\Debug\net6.0-windows\mssgBox_fullName.AssemblyInfo.cs
+E:\Desktop\Program\C#\Project1\mssgBox_fullName\mssgBox_fullName\obj\Debug\net6.0-windows\mssgBox_fullName.csproj.CoreCompileInputs.cache
+E:\Desktop\Program\C#\Project1\mssgBox_fullName\mssgBox_fullName\obj\Debug\net6.0-windows\mssgBox_fullName.dll
+E:\Desktop\Program\C#\Project1\mssgBox_fullName\mssgBox_fullName\obj\Debug\net6.0-windows\refint\mssgBox_fullName.dll
+E:\Desktop\Program\C#\Project1\mssgBox_fullName\mssgBox_fullName\obj\Debug\net6.0-windows\mssgBox_fullName.pdb
+E:\Desktop\Program\C#\Project1\mssgBox_fullName\mssgBox_fullName\obj\Debug\net6.0-windows\mssgBox_fullName.genruntimeconfig.cache
+E:\Desktop\Program\C#\Project1\mssgBox_fullName\mssgBox_fullName\obj\Debug\net6.0-windows\ref\mssgBox_fullName.dll
